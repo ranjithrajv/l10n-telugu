@@ -14,3 +14,5 @@ Telugu Localisation = తెలుగు స్థానికీకరణ
 వ్యాప్తి: సాధారణంగా ఉపయోగించే వెబ్‌సైట్లు మరియు కంప్యూటర్ ఉపకరణాలు తెలుగులో అందుబాటులోకి రావడం
 స్థిరత: రోజువారీగా వాడే సాఫ్టువేరు సాంకేతిక పదాలకు (అందరూ వాడుతుండడం వల్ల) ఓ స్థాయి ప్రామాణికత రావడం
 విజృంభణ: సగటు తెలుగువారికి అవసరమైన కంప్యూటర్ సంభాషణ అంతా తెలుగులోనే జరుగుతుంది. అన్ని రకాల వెబ్‌సైట్లూ, ఉపకరణాలూ తెలుగులో కూడా లభిస్తాయి.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
