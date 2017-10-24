@@ -11,4 +11,10 @@ Telugu Localisation = తెలుగు స్థానికీకరణ
 
 కంప్యూటర్, జాల, మొబైల్ ఉపకరణాలను తెలుగు లోనికి తీసుకురావడంలో తోడ్పడే మార్గదర్శిని ఈ పుస్తకం. వివిధ ఉపకరణాల తెలుగీకరణకు ఉపయోగపడే అంశాలు, మార్గదర్శక సూత్రాలు ఈ పుస్తకంలో ఉంటాయి. [తెలుగు స్థానికీకరణ మార్గదర్శిని](https://te.wikibooks.org/wiki/%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81_%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%BE%E0%B0%A8%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%95%E0%B0%B0%E0%B0%A3_%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%97%E0%B0%A6%E0%B0%B0%E0%B1%8D%E0%B0%B6%E0%B0%BF%E0%B0%A8%E0%B0%BF)
 
+వివిధ ఆంగ్ల భాషా పదాలకు తెలుగు పదాలను శోధించడం కొరకు [తెలుగుపదం](http://telugupadam.org/%E0%B0%AE%E0%B1%8A%E0%B0%A6%E0%B0%9F%E0%B0%BF_%E0%B0%AA%E0%B1%87%E0%B0%9C%E0%B1%80) జాలస్థమును వీక్షించండి.
+
+కొత్త తెలుగుపదాల కొరకు అభ్యర్ధనలు, సందేహాలు, మీ ప్రతిపాదనలు [తెలుగుపదం గూగుల్ గుంపు](https://groups.google.com/forum/#!forum/telugupadam) లో చర్చించవచ్చు. తెలుగు పదాలు సృష్టించడానికి ఉపయోగపడే వనరులను చూడండి.
+
+మరిన్ని వివరాలకు [తరచూ వచ్చే సందేహాలు](http://telugupadam.org/%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81%E0%B0%AA%E0%B0%A6%E0%B0%82:%E0%B0%A4%E0%B0%B5%E0%B0%B8%E0%B0%82) చూడండి. 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
